@@ -14,7 +14,7 @@ This chart utilizes bitnami/postgresql chart as a dependency to deploy database 
 2. Build the dependencies:
 
     ```bash
-    helm dependecy build ./python-app
+    helm dependency build ./python-app
     ```
 3. Install the 'release':
 
